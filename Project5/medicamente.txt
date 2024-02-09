@@ -1,0 +1,17 @@
+4
+paracetamol
+pastile
+30
+1
+nurofen
+pastile
+60
+1
+algocalmin
+pastile
+50
+1
+calmotusin
+sirop
+100
+0
